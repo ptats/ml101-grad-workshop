@@ -4,6 +4,8 @@ This workshop is a little taste into machine learning, specifically deep learnin
 
 ## Prerequisites - can be completed on the day
 
+We wil be using Google Collaboratory for our coding exercise as we need access to a GPU. Google kindly provides this for free!! However, there are some parts of the coding exercise that are not compatible with Google Collab and you will be required to run this section locally.
+
 * a laptop with google chrome or firefox
 * google drive account - if you don't have a google drive account you can create one [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&dsh=S-1694359826%3A1582007900873563&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp)
 * Nice to have: local install of jupyter notebook (see instructions [here](https://jupyter.readthedocs.io/en/latest/install.html#install). If you are unable to install, that is fine, there are just one or two parts of the coding exercise that you will be unable to do
@@ -26,6 +28,13 @@ You now need to tell google collab that you want to use a GPU. With the notebook
 
 ![runtime](https://github.com/ptats/ml101-grad-workshop/blob/master/images/Notebook_img3.PNG)
 ![gpu](https://github.com/ptats/ml101-grad-workshop/blob/master/images/Notebook_img4.png)
+
+### Step 4: Work through Google Collab Getting Started Notebooks
+
+Before you start the coding exercise you should familiarise yourself with the Google Collab environment. You should work through the following two notebooks:
+
+* [What is Collaboratory?](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=5fCEDCU_qrC0)
+* [Overview of Collaboratory Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=WUtu4316QSHL)
 
 ### Other Notes
 
