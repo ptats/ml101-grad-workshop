@@ -9,6 +9,7 @@ We wil be using Google Collaboratory for our coding exercise as we need access t
 * a laptop with google chrome or firefox
 * google drive account - if you don't have a google drive account you can create one [here](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&dsh=S-1694359826%3A1582007900873563&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp)
 * Nice to have: local install of jupyter notebook (see instructions [here](https://jupyter.readthedocs.io/en/latest/install.html#install). If you are unable to install, that is fine, there are just one or two parts of the coding exercise that you will be unable to do
+* Nice to have: local install of fastai following instructions [here](https://github.com/fastai/fastai/blob/master/README.md#installation). As above, only a small section of the coding exercise will be ommitted if you can't get this installed locally
 
 ## How to run
 
